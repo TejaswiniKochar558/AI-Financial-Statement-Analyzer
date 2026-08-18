@@ -1,0 +1,9 @@
+streamlit
+pandas
+pdfplumber
+torch
+Pillow
+pdf2image
+transformers
+google-genai
+plotly
